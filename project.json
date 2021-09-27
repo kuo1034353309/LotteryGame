@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "LotteryGame",
+  "id": "3cbef1eb-5b64-4222-a6a6-7e0044ed39d2",
+  "version": "2.4.0",
+  "isNew": false
+}
